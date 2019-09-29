@@ -1,5 +1,5 @@
 import random
-print("******* Welcome To The SPS *********")
+print("******* Welcome To The Stone_Paper_Scissor Game *********")
 ch="y"
 while(ch=="y"):
     w=0
